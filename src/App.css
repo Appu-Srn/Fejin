@@ -31,3 +31,48 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #F8F8F8
+}
+.Link{
+  color: #A8A8A8
+}
+.Link:hover{
+  color: #ea83a0
+}
+.Link:active{
+  color: #ea8fff
+}
+
+@media (max-width: 480px) {
+  #picblock {
+  width:100%;
+  height: auto;
+  
+  }
+}
+@media (min-width: 481px) {
+  #picblock {
+    width:50%;
+    height: auto;
+  }
+}
+
+#footer {
+  position: sticky;
+  height: 50px;
+  /* background-color: red; */
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+
+.Linked{
+  color: #603340;
+}
+
+.Linked:hover{
+  color: #f280a1;
+}
