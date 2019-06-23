@@ -14,13 +14,13 @@ const Contact = (props) => {
             <div className=" row d-flex flex-row">
             <p className="p-2"> <i className="fa fa-envelope-open" aria-hidden="true"></i><b> Email: </b>fejin19@gmail.com </p>
             </div>
-            
+
             <div className="row">
 <p className="p-2"><b><i className="fa fa-map-marker" aria-hidden="true"></i> Address: </b>Aysha Manzil (HO) ,Madappalli College (PO) ,Vadakara ,Calicut - 673102 </p>
 </div>
 
 <div className="row">
-<p className="p-2"> <i className="fa fa-mobile" aria-hidden="true"></i> <b>Phone: </b>09605970997 </p>
+<p className="p-2"> <i className="fa fa-mobile" aria-hidden="true"></i> <b>Phone: </b> (+91)9744998779 </p>
 </div>
 
 
