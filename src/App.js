@@ -22,7 +22,7 @@ function App() {
     <Route path='/contact' component={Contact} />
     <Route path='/portfolio' component={Portfolio} />
     <Route path='/footer' component={Footer} />
-    <Route path='/photos' component={Friends} />
+    <Route path='/pics' component={Friends} />
     <Route  component={Error} />
     </Switch>
     <Footer/>
